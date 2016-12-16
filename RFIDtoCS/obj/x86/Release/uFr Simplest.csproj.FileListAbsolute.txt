@@ -1,0 +1,43 @@
+G:\uFrVer2.0\C#\uFr Simplest\bin\x86\Release\uFr Simplest.exe.config
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.csprojResolveAssemblyReference.cache
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Release\uFRSimplest.frmuFRSimplest.resources
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Release\uFrSimplest.Properties.Resources.resources
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.csproj.GenerateResource.Cache
+G:\uFrVer2.0\C#\uFr Simplest\bin\x86\Release\uFr Simplest.exe
+G:\uFrVer2.0\C#\uFr Simplest\bin\x86\Release\uFr Simplest.pdb
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.exe
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.pdb
+G:\uFrSimplest2.0\C#\uFr Simplest\bin\x86\Release\uFr Simplest.exe.config
+G:\uFrSimplest2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.exe
+G:\uFrSimplest2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.pdb
+G:\uFrSimplest2.0\C#\uFr Simplest\bin\x86\Release\uFr Simplest.exe
+G:\uFrSimplest2.0\C#\uFr Simplest\bin\x86\Release\uFr Simplest.pdb
+G:\uFrSimplest2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.csprojResolveAssemblyReference.cache
+G:\uFrSimplest2.0\C#\uFr Simplest\obj\x86\Release\uFRSimplest.frmuFRSimplest.resources
+G:\uFrSimplest2.0\C#\uFr Simplest\obj\x86\Release\uFrSimplest.Properties.Resources.resources
+G:\uFrSimplest2.0\C#\uFr Simplest\obj\x86\Release\uFr Simplest.csproj.GenerateResource.Cache
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\bin\x86\Release\uFr Simplest.exe.config
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\obj\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\obj\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\bin\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\bin\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\obj\x86\Release\uFr Simplest.csprojResolveAssemblyReference.cache
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\obj\x86\Release\uFRSimplest.frmuFRSimplest.resources
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\obj\x86\Release\uFrSimplest.Properties.Resources.resources
+C:\Users\alanm_001\Downloads\C#_2.0_Win\C#_2.0_Win\uFr Simplest\obj\x86\Release\uFr Simplest.csproj.GenerateResource.Cache
+C:\Users\alanm_001\Desktop\uFr Simplest\bin\x86\Release\uFr Simplest.exe.config
+C:\Users\alanm_001\Desktop\uFr Simplest\obj\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Desktop\uFr Simplest\obj\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Desktop\uFr Simplest\obj\x86\Release\uFr Simplest.csprojResolveAssemblyReference.cache
+C:\Users\alanm_001\Desktop\uFr Simplest\obj\x86\Release\uFRSimplest.frmuFRSimplest.resources
+C:\Users\alanm_001\Desktop\uFr Simplest\obj\x86\Release\uFrSimplest.Properties.Resources.resources
+C:\Users\alanm_001\Desktop\uFr Simplest\obj\x86\Release\uFr Simplest.csproj.GenerateResource.Cache
+C:\Users\alanm_001\Desktop\uFr Simplest\bin\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Desktop\uFr Simplest\bin\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Documents\uFr Simplest\bin\x86\Release\uFr Simplest.exe.config
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFr Simplest.csprojResolveAssemblyReference.cache
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFRSimplest.RFIDtoCS.resources
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFrSimplest.Properties.Resources.resources
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFr Simplest.csproj.GenerateResource.Cache

@@ -1,0 +1,40 @@
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Simplest.exe
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Simplest.pdb
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.csprojResolveAssemblyReference.cache
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.csproj.GenerateResource.Cache
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.exe
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.pdb
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFRSimplest.frmuFRSimplest.resources
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFRSimplest.Properties.Resources.resources
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.exe
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.pdb
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.csprojResolveAssemblyReference.cache
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFRSimplest.frmuFRSimplest.resources
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFrSimplest.Properties.Resources.resources
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.csproj.GenerateResource.Cache
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.pdb
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.exe.CodeAnalysisLog.xml
+H:\uFrVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.exe.lastcodeanalysissucceeded
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFr Simplest.pdb
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.pdb
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.exe.CodeAnalysisLog.xml
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFr Simplest.exe.lastcodeanalysissucceeded
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.csprojResolveAssemblyReference.cache
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFRSimplest.frmuFRSimplest.resources
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFrSimplest.Properties.Resources.resources
+H:\uFrVer2.0\C#\uFr Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Simplest.csproj.GenerateResource.Cache
+H:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFr Simplest.pdb
+H:\uFrVer2.0\C#\uFr Simplest\bin\x86\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFr Simplest\bin\x86\Debug\uFr Simplest.pdb
+H:\uFrVer2.0\C#\uFr Simplest\bin\x86\Debug\uFr Simplest.exe.CodeAnalysisLog.xml
+H:\uFrVer2.0\C#\uFr Simplest\bin\x86\Debug\uFr Simplest.exe.lastcodeanalysissucceeded
+H:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFr Simplest.csprojResolveAssemblyReference.cache
+H:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFRSimplest.frmuFRSimplest.resources
+H:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFrSimplest.Properties.Resources.resources
+H:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFr Simplest.csproj.GenerateResource.Cache
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFr Simplest.exe
+G:\uFrVer2.0\C#\uFr Simplest\obj\x86\Debug\uFr Simplest.pdb

@@ -1,0 +1,28 @@
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Coder Simplest.exe
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Coder Simplest.pdb
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR_Coder_Simplest.frmuFRCoderSimplest.resources
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR_Coder_Simplest.Properties.Resources.resources
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.csproj.GenerateResource.Cache
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.exe
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.pdb
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.exe
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.pdb
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Coder Simplest.exe
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Coder Simplest.pdb
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR_Coder_Simplest.frmuFRCoderSimplest.resources
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR_Coder_Simplest.Properties.Resources.resources
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\RADNI FOLDER\C#\MifareProject\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.exe
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.pdb
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Coder Simplest.exe
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\bin\x86\Debug\uFR Coder Simplest.pdb
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR_Coder_Simplest.frmuFRCoderSimplest.resources
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR_Coder_Simplest.Properties.Resources.resources
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\uFRNewRadniFolder\C#\MifareProject\uFRCoder Simplest1\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.exe
+H:\RadniFolder\uFRVer2.0\C#\uFRCoder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x86\Debug\uFR Coder Simplest.pdb

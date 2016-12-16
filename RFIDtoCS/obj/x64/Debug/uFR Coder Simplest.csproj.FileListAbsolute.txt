@@ -1,0 +1,8 @@
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x64\Debug\uFR Coder Simplest.exe
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\bin\x64\Debug\uFR Coder Simplest.pdb
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x64\Debug\uFR_Coder_Simplest.frmuFRCoderSimplest.resources
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x64\Debug\uFR_Coder_Simplest.Properties.Resources.resources
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x64\Debug\uFR Coder Simplest.csproj.GenerateResource.Cache
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x64\Debug\uFR Coder Simplest.exe
+D:\Moji Programi\C#\MifareProject\uFr Coder Simplest\uFR Coder Simplest\uFR Coder Simplest\obj\x64\Debug\uFR Coder Simplest.pdb

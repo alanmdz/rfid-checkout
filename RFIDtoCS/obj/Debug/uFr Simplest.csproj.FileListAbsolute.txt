@@ -1,0 +1,7 @@
+H:\uFrVer2.0\C#\uFr Simplest\bin\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFr Simplest\bin\Debug\uFr Simplest.pdb
+H:\uFrVer2.0\C#\uFr Simplest\obj\Debug\uFRSimplest.frmuFRSimplest.resources
+H:\uFrVer2.0\C#\uFr Simplest\obj\Debug\uFrSimplest.Properties.Resources.resources
+H:\uFrVer2.0\C#\uFr Simplest\obj\Debug\uFr Simplest.csproj.GenerateResource.Cache
+H:\uFrVer2.0\C#\uFr Simplest\obj\Debug\uFr Simplest.exe
+H:\uFrVer2.0\C#\uFr Simplest\obj\Debug\uFr Simplest.pdb

@@ -1,0 +1,44 @@
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFrSimplest.Properties.Resources.resources
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\RFIDtoCS.csproj.GenerateResource.Cache
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\RFIDtoCS.RFIDtoCS.resources
+C:\Users\alanm_001\Documents\uFr Simplest\bin\x86\Release\uFr Simplest.exe.config
+C:\Users\alanm_001\Documents\uFr Simplest\bin\x86\Release\uFr Simplest.exe
+C:\Users\alanm_001\Documents\uFr Simplest\bin\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Documents\uFr Simplest\obj\x86\Release\uFr Simplest.pdb
+C:\Users\alanm_001\Desktop\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe.config
+C:\Users\alanm_001\Desktop\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe
+C:\Users\alanm_001\Desktop\RFIDtoCS\bin\x86\Release\RFIDtoCS.pdb
+C:\Users\alanm_001\Desktop\RFIDtoCS\obj\x86\Release\RFIDtoCS.csprojResolveAssemblyReference.cache
+C:\Users\alanm_001\Desktop\RFIDtoCS\obj\x86\Release\RFIDtoCS.RFIDtoCS.resources
+C:\Users\alanm_001\Desktop\RFIDtoCS\obj\x86\Release\RFIDtoCS.Properties.Resources.resources
+C:\Users\alanm_001\Desktop\RFIDtoCS\obj\x86\Release\RFIDtoCS.csproj.GenerateResource.Cache
+C:\Users\alanm_001\Desktop\RFIDtoCS\obj\x86\Release\RFIDtoCS.exe
+C:\Users\alanm_001\Desktop\RFIDtoCS\obj\x86\Release\RFIDtoCS.pdb
+H:\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe.config
+H:\RFIDtoCS\obj\x86\Release\RFIDtoCS.exe
+H:\RFIDtoCS\obj\x86\Release\RFIDtoCS.pdb
+H:\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe
+H:\RFIDtoCS\bin\x86\Release\RFIDtoCS.pdb
+H:\RFIDtoCS\obj\x86\Release\RFIDtoCS.csprojResolveAssemblyReference.cache
+H:\RFIDtoCS\obj\x86\Release\RFIDtoCS.RFIDtoCS.resources
+H:\RFIDtoCS\obj\x86\Release\RFIDtoCS.Properties.Resources.resources
+H:\RFIDtoCS\obj\x86\Release\RFIDtoCS.csproj.GenerateResource.Cache
+H:\SENIOR PROJECT\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe.config
+H:\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.exe
+H:\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.pdb
+H:\SENIOR PROJECT\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe
+H:\SENIOR PROJECT\RFIDtoCS\bin\x86\Release\RFIDtoCS.pdb
+H:\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.csprojResolveAssemblyReference.cache
+H:\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.RFIDtoCS.resources
+H:\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.Properties.Resources.resources
+H:\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.csproj.GenerateResource.Cache
+I:\USB\SENIOR PROJECT\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe.config
+I:\USB\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.exe
+I:\USB\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.pdb
+I:\USB\SENIOR PROJECT\RFIDtoCS\bin\x86\Release\RFIDtoCS.exe
+I:\USB\SENIOR PROJECT\RFIDtoCS\bin\x86\Release\RFIDtoCS.pdb
+I:\USB\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.csprojResolveAssemblyReference.cache
+I:\USB\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.RFIDtoCS.resources
+I:\USB\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.Properties.Resources.resources
+I:\USB\SENIOR PROJECT\RFIDtoCS\obj\x86\Release\RFIDtoCS.csproj.GenerateResource.Cache
