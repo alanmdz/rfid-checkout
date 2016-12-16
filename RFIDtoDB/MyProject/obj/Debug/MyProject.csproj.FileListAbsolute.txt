@@ -1,0 +1,23 @@
+c:\users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MySql.Data.dll
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\alanm_001\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+H:\MyProject\MyProject\bin\Debug\MyProject.exe.config
+H:\MyProject\MyProject\obj\Debug\MyProject.exe
+H:\MyProject\MyProject\obj\Debug\MyProject.pdb
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\bin\Debug\MyProject.exe.config
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\obj\Debug\MyProject.exe
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\obj\Debug\MyProject.pdb
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\bin\Debug\MyProject.exe
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\bin\Debug\MyProject.pdb
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\bin\Debug\MySql.Data.dll
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\obj\Debug\MyProject.Form1.resources
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+H:\SENIOR PROJECT\RFIDtoDB\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
